@@ -52,7 +52,7 @@ Advanced: Sketch, UXPin
 
 Wireframing is a critical first step in design—it ensures the final product is user-friendly and efficient.
 
-Types of Wireframing
+# Types of Wireframes: 
 Wireframes can be categorized based on fidelity (level of detail) and purpose. Here are the main types:
 
 1. By Fidelity (Detail Level)
